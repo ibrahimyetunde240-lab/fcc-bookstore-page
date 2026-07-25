@@ -1,4 +1,4 @@
-# Build a Bookstore Page
+# A Bookstore Page
 
 This project was completed as part of the freeCodeCamp Responsive Web Design curriculum.
 
